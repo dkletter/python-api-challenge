@@ -1,6 +1,10 @@
 # Adding config.py file.
 api_keys.py
 
+# Adding these files per homework assignment
+API_practice.ipynb
+random_numbers.ipynb
+
 # .DS_Store
 .DS_Store
 
